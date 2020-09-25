@@ -30,6 +30,6 @@
     "mocha": "^8.0.1",
     "should": "^13.0.0",
     "standard": "^14.1.0",
-    "supertest": "^4.0.0"
+    "supertest": "^5.0.0"
   }
 }
